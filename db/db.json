@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "New Note 1",
+        "text": "Example text",
+        "id": "8d86e338-26a1-4a4e-a27a-aaad7eb46396"
+    },
+    {
+        "title": "Note 2",
+        "text": "Example Text 2",
+        "id": "e3fe2434-e2c4-4452-83be-c2b3a09567df"
     }
 ]
