@@ -2,7 +2,7 @@ const express = require('express');
 
 const notesRouter = require('./notes.js');
 
-const app = Express();
+const app = express();
 
 app.use('/notes', notesRouter);
 
